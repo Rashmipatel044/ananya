@@ -1,0 +1,53 @@
+body{
+    background-color: rgba(0, 0, 0, 0.193);
+}
+.tech{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    height: 73px;
+    width: 100%;
+    align-items: center;
+}
+.team{
+    background-color: yellow;
+    height: 554px;
+    width: 100%;
+}
+.upperl{
+    height:  59px;
+    width: 131px;
+    background-color:pink;
+    border-style: solid;
+    border-color: #000000;
+    margin-top: 10px;
+    margin-left: 30px;
+    display: flex;
+ align-items: center;
+ justify-content: center;
+}
+.Upper2{
+    height:  59px;
+    width: 583px;
+background-color: pink;
+border-style: solid;
+border-color: black;
+margin-top: 10px;
+    margin-left: 30px;
+    align-items: center;
+    justify-content: center;
+}
+.team{
+    display: flex;
+    
+    
+}
+footer{
+    background-color: green;
+    height: 293px;
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 10px;
+
+    
+}
